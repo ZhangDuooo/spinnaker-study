@@ -65,5 +65,3 @@ spec:
                             serviceName: operational-iron-microservice-service
                             servicePort: 30201
 
-
-
